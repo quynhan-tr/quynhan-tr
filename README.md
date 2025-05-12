@@ -1,3 +1,3 @@
 ## Hi, I'm An!
 
-[![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhan-tr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats-ruby-eight.vercel.app/?user=quynhan-tr&theme=shadow-blue&card_width=467" alt="quynhan-tr" /></p>
