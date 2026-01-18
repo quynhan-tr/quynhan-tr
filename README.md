@@ -1,16 +1,11 @@
-## Hi there 👋
+<pre>
+   _     _         _                         _ 
+  | |   (_)   _   | |                       | |
+  | | _  _   | |_ | | _   ____  ____ ____   | |
+  | || \| |  |  _)| || \ / _  )/ ___) _  )  |_|
+  | | | | |  | |__| | | ( (/ /| |  ( (/ /    _ 
+  |_| |_|_|   \___)_| |_|\____)_|   \____)  |_|
+                                             
+</pre>
 
-<!--
-**quynhan-tr/quynhan-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out <a href="https://victorhuang.vercel.app/" style="color:#4B0082">my personal website</a> 🍀
