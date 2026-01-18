@@ -8,4 +8,4 @@
                                              
 </pre>
 
-Check out <a href="https://victorhuang.vercel.app/" style="color:#4B0082">my personal website</a> 🍀
+<p align="center">Check out <a href="https://victorhuang.vercel.app/" style="color:#4B0082">my personal website</a> 🍀</p>
